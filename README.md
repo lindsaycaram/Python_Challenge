@@ -1,3 +1,5 @@
 # Python_Challenge
 
-challenge goal: to test my understanding of 
+challenge goal: test my understanding of python basics, files and loops, booleans, if statements, list operations, dictionaries, and funtions
+
+dataset: US birth names

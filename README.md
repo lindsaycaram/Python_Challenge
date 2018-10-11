@@ -1,2 +1,3 @@
 # Python_Challenge
-Files, Loops, and Conditional Logic
+
+challenge goal: to test my understanding of 
